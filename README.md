@@ -1,7 +1,7 @@
 <!-- 🔥 TOP HEADER -->
 <h1 align="center">Hi 👋, I'm Viyani Sushmitha</h1>
 
-<h3 align="center">AI/ML Engineer | LLM systems engineer | Agentic AI & RAG builder </h3>
+<h3 align="center">AI/ML Engineer | Agentic AI & RAG Builder | 6+ YOE SDE</h3>
 
 <!-- 🔥 HEADER (LEFT TEXT + RIGHT ANIMATION) -->
 <table>
