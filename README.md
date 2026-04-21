@@ -1,5 +1,5 @@
 <!-- 🔥 TOP HEADER -->
-<h1 align="center">Hi 👋, I'm Viyani</h1>
+<h1 align="center">Hi 👋, I'm Viyani Sushmitha</h1>
 
 <h3 align="center">AI/ML Engineer | Agentic AI & RAG Builder | 6+ YOE SDE</h3>
 
