@@ -1,7 +1,7 @@
 <!-- 🔥 TOP HEADER -->
 <h1 align="center">Hi 👋, I'm Viyani Sushmitha</h1>
 
-<h3 align="center">AI/ML Engineer | LLM Engineer | Agentic AI & RAG Systems</h3>
+<h3 align="center">AI/ML Engineer | LLM systems engineer | Agentic AI & RAG builder </h3>
 
 <!-- 🔥 HEADER (LEFT TEXT + RIGHT ANIMATION) -->
 <table>
@@ -18,16 +18,16 @@
 ## 🚀 Featured Work
 
 -  CARLA + LLaVA Autonomous Driving Decision System (VLM-based reasoning layer)
--  RAG-based Virtual Assistants
--  LLM-based Customer Support Agent with retrieval + context memory
+-  RAG based Virtual Assistants
+-  LLM based Customer Support Agent with retrieval + context memory
 -  Vision Transformer + LLM fusion research for autonomous systems
 ---
 
 ## ⚡ Fun Facts
 
-- ☕ Tender coconut water = my gradient descent optimizer  
+- ☕ Tender coconut  = my gradient descent optimizer  
 - 🤖 I train models… and sometimes they train me back
-- Lychee, ice apples & seasonal fruits - my favorite refresh loop
+- Lychees & ice apples - my favorite refresh loop
 
 ---
 
@@ -103,12 +103,10 @@
 
 <p align="center">
   <!-- 👩‍💻 Anime girl at laptop (coding aesthetic) -->
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+👩‍💻;Researcher+in+Agentic+AI;Building+LLM+Systems;Training+Models+at+Scale;Turning+Ideas+into+Reality&center=true&width=400&height=200&color=00F7FF&vCenter=true&size=18" />
-</p>
+
 
 </td>
 
