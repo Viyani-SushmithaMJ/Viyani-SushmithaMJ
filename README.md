@@ -11,15 +11,16 @@
   
 ## 👨‍💻 About Me
   
-🎓 M.S. Artificial Intelligence at San Jose State University  
-📧 viyani.mj@gmail.com  - Feel free to contact me
-🔗 <a href="https://linkedin.com/in/viyani">LinkedIn</a>
+- 🎓 M.S. Artificial Intelligence at San Jose State University 
+- 📍 Based in California, USA
+- 📧 viyani.mj@gmail.com  - Feel free to contact me
+- 🔗 <a href="https://linkedin.com/in/viyani">LinkedIn</a>
 
----
+
 ## ⚡ Fun Facts
 
-- ☕ Tender coconut  = my gradient descent optimizer  
-- 🤖 I train models… and sometimes they train me back
+- Tender coconut  = my gradient descent optimizer  
+- I train models… and sometimes they train me back
 - Lychees & ice apples - my favorite refresh loop
 
 ---
