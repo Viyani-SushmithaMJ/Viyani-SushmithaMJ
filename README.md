@@ -1,5 +1,5 @@
 <!-- 🔥 TOP HEADER -->
-<h1 align="center">Hi 👋, I'm Viyani Sushmitha</h1>
+<h1 align="center">Hi there 👋, I'm Viyani Sushmitha</h1>
 
 <h3 align="center">AI/ML Engineer | Agentic AI & RAG Builder | 6+ YOE SDE</h3>
 
@@ -8,21 +8,14 @@
 <tr>
 
 <td width="60%" valign="top">
-
+  
+## 👨‍💻 About Me
+  
 🎓 M.S. Artificial Intelligence at San Jose State University  
-📧 viyani.mj@gmail.com  - Always  up for a chat
+📧 viyani.mj@gmail.com  - Feel free to contact me
 🔗 <a href="https://linkedin.com/in/viyani">LinkedIn</a>
 
 ---
-
-## 🚀 Featured Work
-
--  CARLA + LLaVA Autonomous Driving Decision System (VLM-based reasoning layer)
--  RAG based Virtual Assistants
--  LLM based Customer Support Agent with retrieval + context memory
--  Vision Transformer + LLM fusion research for autonomous systems
----
-
 ## ⚡ Fun Facts
 
 - ☕ Tender coconut  = my gradient descent optimizer  
@@ -99,16 +92,7 @@
 
 </td>
 
-<td width="40%" valign="top">
 
-<p align="center">
-  <!-- 👩‍💻 Anime girl at laptop (coding aesthetic) -->
-<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" />
-</p>
-
-
-
-</td>
 
 </tr>
 </table>
