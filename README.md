@@ -22,7 +22,7 @@
  
 ## 🛠️ Tech Stack
  
-### 🤖 Agentic AI & Orchestration &nbsp;*(Most In-Demand — 2025/2026)*
+### 🤖 Agentic AI & Orchestration &nbsp;
  
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-4479A1?style=for-the-badge)
