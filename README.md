@@ -50,9 +50,7 @@
 ![Hybrid Search](https://img.shields.io/badge/Hybrid%20Search-E53935?style=for-the-badge)
 ![Reranking](https://img.shields.io/badge/Reranking-00ACC1?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC143C?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Semantic Search](https://img.shields.io/badge/Semantic%20Search-5A29E4?style=for-the-badge)
  
 ### 📡 ML / DL Frameworks
