@@ -115,7 +115,7 @@
 ---
  
 <div align="center">
-*Open to AI/ML Engineer · Senior ML Engineer · Agentic AI · LLM Engineer roles*
+*Open to AI/ML Engineer · ML Engineer · Agentic AI · LLM Engineer roles*
  
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viyani)
 [![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viyani.mj@gmail.com)
