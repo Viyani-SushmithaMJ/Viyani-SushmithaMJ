@@ -77,12 +77,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-181717?style=for-the-badge&logo=github-actions&logoColor=white)
  
-### 🖥️ LLM Serving & Deployment
- 
-![vLLM](https://img.shields.io/badge/vLLM-FF4B4B?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![TGI](https://img.shields.io/badge/TGI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
  
 ### 🌐 Web, APIs 
  
