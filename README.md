@@ -110,24 +110,6 @@
  
 ---
  
-## 🔥 What I'm Building
- 
-**🤖 Agentic AI Research Assistant**
-Multi-agent system with LangGraph + RAG + Tool Calling for autonomous document analysis. Handles complex multi-hop reasoning with memory persistence.
-`LangGraph` · `RAG` · `ChromaDB` · `FastAPI` · `GPT-4o`
- 
-**🧠 LLM Fine-Tuning Pipeline**
-End-to-end QLoRA fine-tuning for domain-specific LLaMA 3 with eval harness (ROUGE, BERTScore, LLM-as-Judge).
-`LLaMA 3` · `QLoRA` · `HuggingFace` · `W&B` · `vLLM`
- 
-**🔍 Hybrid RAG + Reranker System**
-Production RAG with BM25 + dense retrieval fusion, ColBERT reranking & guardrails. Reduces hallucination by 40% vs naive RAG.
-`Qdrant` · `FAISS` · `BM25` · `Cohere Rerank` · `LangSmith`
- 
-
----
- 
- 
 ## ⚡ Fun Facts
  
 - 🥥 Tender coconut = my gradient descent optimizer
