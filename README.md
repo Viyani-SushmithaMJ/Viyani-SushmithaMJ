@@ -13,11 +13,10 @@
 📍 California, USA &nbsp;|&nbsp; 💼 **6+ Years SDE + AI/ML Experience**
  
  
-- 🤖 Built end-to-end **Agentic AI** workflows using LangGraph, CrewAI & AutoGen
+- 🤖 Built end-to-end **Agentic AI** workflows using LangGraph & CrewAI 
 - 🔍 Designed **RAG systems** with hybrid retrieval, reranking & semantic search
 - 🧠 **Fine-tuned LLMs** (LLaMA 3, Mistral) using LoRA/QLoRA on custom datasets
-- 🛠 Shipped ML models at scale with robust **MLOps** (MLflow, W&B, Docker)
-- ☁️ Cloud-native AI on **AWS SageMaker**, **GCP Vertex AI**
+- ☁️ Cloud native AI on **AWS SageMaker**, **GCP Vertex AI**
 ---
  
 ## 🛠️ Tech Stack
