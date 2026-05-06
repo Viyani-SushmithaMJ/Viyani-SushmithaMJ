@@ -52,6 +52,7 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge)
 ![Semantic Search](https://img.shields.io/badge/Semantic%20Search-5A29E4?style=for-the-badge)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-00ACC1?style=for-the-badge)
  
 ### 📡 ML / DL Frameworks
  
